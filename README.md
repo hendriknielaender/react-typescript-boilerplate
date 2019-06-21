@@ -11,7 +11,7 @@
 
 ## Quick start
 
-2.  Clone this repo using `git clone https://github.com/hendriknielaender/typescript-react-boilerplate.git <YOUR_PROJECT_NAME>`
+2.  Clone this repo using `git clone https://github.com/hendriknielaender/react-typescript-boilerplate.git <YOUR_PROJECT_NAME>`
 3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
 4.  Run `npm install` in order to install dependencies<br />
 5.  Run `npm run dev`
